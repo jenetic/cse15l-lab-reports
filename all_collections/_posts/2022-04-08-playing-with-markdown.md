@@ -20,7 +20,7 @@ My favorite classes 2.0
 2. CSE 15L
 
 ---
-```
+```python
 print("Hello World")
 ```
 ![Picture](img.png "Picture")
