@@ -1,12 +1,15 @@
 :root {
   --gray-1: #3f3f3f;
   --gray-2: #32353a;
-  --gray-3: #152642;
+  --gray-3: #071936;
   --gray-4: #151618;
-  --gray-5: #081B33;
+  --gray-5: #001029;
   --gray-6: #111111;
   --white-1: #eeeeee;
-  --white-2: #a9abb3;
+  --white-2: #9DA6CC;
+  --orange-1: #D37471;
+  --blue-1: #0099B8;
+  --red-1: #EC5858;
 }
 #category-modal-bg {
   position: fixed;
