@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,300;0,400;0,800;1,100;1,300;1,400;1,800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=JetBrains+Mono:ital@0;1&display=swap');
 
 :root {
   --gray-1: #3f3f3f;
@@ -28,7 +28,7 @@ html,
 body {
   color: var(--white-2);
   background-color: var(--gray-6);
-  font-family: "JetBrains Mono", monospace;
+  font-family: 'Inter', sans-serif;
   line-height: 2rem;
   background-color: var(--gray-5);
 }
@@ -176,6 +176,7 @@ main {
   background: var(--gray-3) !important;
   padding: 1rem 2rem;
   margin-bottom: 1.75rem;
+  font-family: 'JetBrains Mono', monospace;
 }
 
 .content code {
@@ -183,6 +184,7 @@ main {
   color: var(--orange-1);
   white-space: pre;
   background-color: var(--gray-3);
+  font-family: 'JetBrains Mono', monospace;
 }
 
 /* lbox */
