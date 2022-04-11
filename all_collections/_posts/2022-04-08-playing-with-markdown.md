@@ -23,4 +23,4 @@ My favorite classes 2.0
 ```python
 print("Hello World")
 ```
-![Picture](img.png "Picture")
+![Picture](../../img/lab1/vscode_welcome.png)
